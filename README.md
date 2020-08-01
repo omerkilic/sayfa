@@ -1,0 +1,2 @@
+# sayfa
+veri toplama sayfası
